@@ -1,2 +1,2 @@
 # hello-world
-first time trying git(hib)
+first time trying git(hub)
